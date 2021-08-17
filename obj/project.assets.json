@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tendo\\source\\repos\\SchoolDB\\SchoolDB.csproj",
+      "projectUniqueName": "C:\\Users\\tendo\\OneDrive\\Documents\\GitHub\\SchoolDB\\SchoolDB.csproj",
       "projectName": "SchoolDB",
-      "projectPath": "C:\\Users\\tendo\\source\\repos\\SchoolDB\\SchoolDB.csproj",
+      "projectPath": "C:\\Users\\tendo\\OneDrive\\Documents\\GitHub\\SchoolDB\\SchoolDB.csproj",
       "packagesPath": "C:\\Users\\tendo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tendo\\source\\repos\\SchoolDB\\obj\\",
+      "outputPath": "C:\\Users\\tendo\\OneDrive\\Documents\\GitHub\\SchoolDB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tendo\\AppData\\Roaming\\NuGet\\NuGet.Config",
