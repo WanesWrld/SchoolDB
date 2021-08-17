@@ -8,7 +8,8 @@ namespace SchoolDB
         {
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Yezzirrrr");
+            Console.WriteLine("Greatness is within");
         }
     }
 }
